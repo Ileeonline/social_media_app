@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861770682861",
+    "project_id": "social-media-app-30f70",
+    "storage_bucket": "social-media-app-30f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861770682861:android:07fd18d52947570575d7e4",
+        "android_client_info": {
+          "package_name": "com.ilee.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861770682861-99gimsbnh7m3jssndb8gb21rbfjmb7f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCLnytoSiVUJubsDLfxYFEYEzFSD63sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861770682861-99gimsbnh7m3jssndb8gb21rbfjmb7f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
